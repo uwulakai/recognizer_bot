@@ -1,7 +1,6 @@
 # Telegram Text Recognition Bot 🤖
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Телеграм-бот для распознавания рукописного и печатного текста на изображениях с использованием Google Gemini API. Включает предобработку изображений для улучшения качества распознавания.
 
